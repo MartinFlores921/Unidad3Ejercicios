@@ -1,0 +1,4 @@
+dni;nombre;direccipn;telefon;tarea;fecha_i;fecha_f,monto_v;costo_o;monto_s;emplead
+12345678; "Juan Perez";"Calle 123";1234567890; "Carpinteria"; "2023-01-01"; "2023-01-31";5000; 100000; 4000
+98765432;"Maria Gomez"; "Avenida 456"; 9876543210;"Electricidad"; "2023-02-01"; "2023-02-28"; 6000; 1500; 4500
+44127308; "Sofia Flores"; "Saenz 421"; 2657543432;"Carpinteria"; "2023-10-09";"2023-12-29"; 8000; 150000; 50000
